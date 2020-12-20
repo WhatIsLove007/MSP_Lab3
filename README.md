@@ -1,3 +1,3 @@
-I haven't faced any difficulties while doing this laboratory work.
+В цій лабораторній роботі ми навчилися використовувати UITabBarController, UITableView, UITableViewDataSource, UILabel, UIImageView, Codable.
 
 Nahornyi Vladyslav, IV-73.
